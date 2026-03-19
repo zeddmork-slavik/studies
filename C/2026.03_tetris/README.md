@@ -3,6 +3,7 @@
 проверить: pkg-config --modversion SDL2_mixer    
 установить sudo apt install libsdl2-mixer-dev
 brew install sdl2 sdl2_mixer
+на WSL disco может подвисать - говорят тяжело некоторым компам две звуковые системы одновременно тянуть.
 
 ctrl + изменить масштаб терминала (строки а значит и поле станет большего размера визуально)
 
